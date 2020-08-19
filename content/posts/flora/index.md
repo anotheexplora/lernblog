@@ -9,4 +9,6 @@ Heute habe ich zusammen mit Lucas eine Website für unser fiktives Unternehmen "
 
 ![](blog-19.08.20-1-.png "Webseite Flora")
 
-die Webseite hat in kurzer Zeit schon Form angenommen (ca. 45 Minuten). Jedoch hat sie auch noch viel Verbesserungspotenziaöl
+Die Webseite hat in kurzer Zeit schon Form angenommen (ca. 45 Minuten). Jedoch hat sie auch noch viel Verbesserungspotenzial, denn gewisse Verbindungen wie zu unseren Produkten fehlen noch. Auch das Layout könnte man noch etwas bearbeiten.
+
+Das Fazit, dass ich daraus ziehen kann ist, dass es gar nicht so schwierig ist eine eigene Webseite zu erstellen. Auch benötigt es nicht so viel Zeit, wie ich bemerkt habe da wir nur 45 Minuten Zeit hatten.

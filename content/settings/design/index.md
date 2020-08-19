@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = ""
-logo = ""
+logo = "/media/a-logo.jpg"
 image = "/media/4b991c93368d6fd04732229fcf624028.jpg"
 color = ""
 +++

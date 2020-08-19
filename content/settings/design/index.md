@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/tumblr_ppnd45kmtw1wcm7vgo1_250.jpg"
+image = "/media/clouds-aesthetic-tumblrandroid-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-trzur-1-.jpg"
 color = ""
 +++

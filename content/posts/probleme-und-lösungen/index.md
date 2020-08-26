@@ -17,6 +17,8 @@ Die Gesellschaft hat Fast Food über Zeit normalisiert. Jedoch wendet sie sich w
 
 ![](mc-wo-ist-healthy-food.png "Fast Food an jeder Ecke")
 
+In der Stadt gibt es viele Läden. Jeder Laden hat sein eigenes Schild oder Logo, aber wie sticht man mit seinem Aushängeschild heraus? Wie hebt man sich aus der Masse heraus und wird so von Fussgängern mehr wahrgenommen? Diese Frage muss man sich im Zentrum der Stadt stellen.
+
 ![](logos.png "Wirrwarr um Läden")
 
 ![](netflix.png "Netflix hat nicht alles")

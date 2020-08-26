@@ -11,9 +11,7 @@ Denn ein Projekt kann nach der Umsetzung nur erfolgreich sein, wenn dies eine L�
 
 In Bern haben ich und Lucas uns auf die Suche nach möglichen Problemen oder Bedürfnissen gemacht. Dabei ist uns aufgefallen, dass schon jetzt überall verwertete Masken herumliegen. Auch bei einer kleinen Umfrage, wird uns gesagt, dass diese Masken dem Bild schaden und dass es nicht gut aussieht. Da
 
-<div class="text-center">
-![Masken: Neues Accessoire wird zum Problem](discarded-masken.png)
-</div>
+<img src="discarded-masken.png" class="mx-auto d-block" alt="Masken: Neues Accessoire wird zum Problem">
 
 Die Gesellschaft hat Fast Food über Zeit normalisiert. Jedoch wendet sie sich wieder anderen - gesünderen Alternativen zu. In der Stadt fällt jedoch auf: an fast jeder Ecke findet man ein Fast Food Restaurant, egal ob Mc Donalds, Burger King oder Subway. Es gibt also überall billiges aber ungesundes Wo findet man aber schnelle und billige gesunde Alternativen? 
 

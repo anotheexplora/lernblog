@@ -13,7 +13,7 @@ In Bern haben ich und Lucas uns auf die Suche nach möglichen Problemen oder Bed
 
 ![Masken: Neues Accessoire wird zum Problem](discarded-masken.png)
 
-Die Gesellschaft hat Fast Food über Zeit normalisiert. Jedoch wendet sie sich wieder anderen - gesünderen Alternativen zu. In der Stadt fällt jedoch auf: an fast jeder Ecke findet man ein Fast Food Restaurant, egal ob Mc Donalds, Burger King oder Subway. Es gibt also überall billiges aber ungesundes Wo findet man aber schnelle und billige gesunde Alternativen? 
+Die Gesellschaft hat Fast Food über Zeit normalisiert. Jedoch wendet sie sich wieder anderen - gesünderen Alternativen zu. In der Stadt fällt jedoch auf: an fast jeder Ecke findet man ein Fast Food Restaurant, egal ob Mc Donalds, Burger King oder Subway. Es gibt also überall billiges aber ungesundes Essen. Wo findet man aber schnelle und billige gesunde Alternativen? Denn immer mehr Menschen haben das Bedürfnis sich gesund zu ernähren aber haben auch weiterhin vielleicht keine Zeit oder Lust zu kochen. Dieses Bedürfnis könnte man abdecken, in dem man auch in zentralen Orten gesunde "Fast Food" Läden eröffnet. Für diese muss man natürlich dann auch werben.
 
 ![](mc-wo-ist-healthy-food.png "Fast Food an jeder Ecke")
 

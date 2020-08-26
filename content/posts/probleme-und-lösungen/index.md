@@ -9,7 +9,7 @@ Ideen hat man Alltag, kann man diese jedoch umsetzten und werden diese überhaup
 
 Denn ein Projekt kann nach der Umsetzung nur erfolgreich sein, wenn dies eine Lösung zu einem Problem der Menschen ist. Deshalb haben wir uns auf den Weg gemacht, um in Bern Probleme oder Bedürfnisse der Menschen zu analysieren.
 
-In Bern haben ich und Lucas uns auf die Suche nach möglichen Problemen oder Bedürfnissen gemacht. Dabei ist uns aufgefallen, dass schon jetzt überall verwertete Masken herumliegen. Auch bei einer kleinen Umfrage, wird uns gesagt, dass diese Masken dem Bild schaden und dass es nicht gut aussieht. Da
+In Bern haben ich und Lucas uns auf die Suche nach möglichen Problemen oder Bedürfnissen gemacht. Dabei ist uns aufgefallen, dass schon jetzt überall verwertete Masken herumliegen. Auch bei einer kleinen Umfrage, wird uns gesagt, dass diese Masken dem Bild schaden und dass es nicht gut aussieht. Um dies zu verhindern kann man Abfalleimer regelmässiger und einfacher erreichbar macht.
 
 ![Masken: Neues Accessoire wird zum Problem](discarded-masken.png)
 

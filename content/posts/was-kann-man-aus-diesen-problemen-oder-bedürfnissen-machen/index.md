@@ -13,4 +13,4 @@ Aus dem Bedürfnis der Jugendlichen sich einfach für eine Serie entscheiden zu 
 
 ![](test-site-shows.png)
 
-Für das Bedürfnis von gesünderen aber weiterhin schnellen Mahlzeiten, hatten wir die Idee einer App oder Website welche gesündere Optionen in der Nähe vorschlägt. Auf dieser Webseite könnten auch Mahlzeiten angezeigt werden welche aus mehreren Zutaten besteht, welche man schnell zu einem feinen Essen verwandeln kann.
+Für das Bedürfnis von gesünderen aber weiterhin schnellen Mahlzeiten, hatten wir die Idee einer App oder Website welche gesündere Optionen in der Nähe vorschlägt. Auf dieser Webseite könnten auch Mahlzeiten angezeigt werden welche aus mehreren Zutaten bestehen, welche man schnell zu einem feinen Essen verwandeln kann.

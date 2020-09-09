@@ -19,6 +19,8 @@ Steps:
 
 \- Ideen weiter ausführen
 
+
+
 ![](best-sites-like-123movies-to-watch-online-movies-and-tv-shows1-783x365.jpg)
 
 Auf unserer Webseite und der App möchten wir die Serien kurz zusammenfassen und unsere persönliche Meinung in ein Rating einbringen. Dabei möchten wir die Serien in verschiedene Kategorien aufteilen (z.B Comedy, Horror, etc.). Auch hatten wir die Idee ein Quiz zu gestalten welches dann zu persönlichen Vorschlägen für Serien führt. Wenn man diese oder eine andere Serie schon gesehen hat, kann man dies in einem separaten Register der Website eintragen (persönlich).

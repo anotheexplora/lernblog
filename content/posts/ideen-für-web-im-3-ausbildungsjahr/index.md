@@ -3,7 +3,7 @@ title = "𝐈𝐝𝐞𝐞𝐧 𝐟ü𝐫 𝐖𝐞𝐛 𝐢𝐦 𝟑. 𝐀𝐮�
 date = "2020-08-12"
 draft = false
 pinned = false
-image = "medical-shows.png"
+image = "photo-1589561253831-b8421dd58261.jpg"
 description = "Was möchte ich lernen und was interessiert mich überhaupt? Welche Ideen für Projekte habe ich?"
 +++
 Ich interessiere mich für das programmieren von Webseiten und Apps, denn es ist sicherlich spannend mal zusehen wie das, was wir täglich benutzte

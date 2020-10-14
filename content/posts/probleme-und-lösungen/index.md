@@ -3,7 +3,7 @@ title = "𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐞 𝐮𝐧𝐝 𝐋ö𝐬𝐮𝐧𝐠�
 date = "2020-08-26"
 draft = false
 pinned = false
-image = "netflix.png"
+image = "photo-1494059980473-813e73ee784b.jpg"
 +++
 Ideen hat man Alltag, kann man diese jedoch umsetzten und werden diese überhaupt von anderen gebraucht? 
 

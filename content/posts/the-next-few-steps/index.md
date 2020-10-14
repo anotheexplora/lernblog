@@ -3,7 +3,7 @@ title = "𝐓𝐡𝐞 𝐧𝐞𝐱𝐭 𝐟𝐞𝐰 𝐬𝐭𝐞𝐩𝐬..."
 date = "2020-09-09"
 draft = false
 pinned = false
-image = "goals.jpg"
+image = "photo-1585776245865-b92df54c6b25.jpg"
 +++
 Heute haben wir in der Gruppe die weiteren Schritte für unser Projekt besprochen. Unser Ziel ist es eine Webseite sowie eine App für Empfehlungen, Tipps und weitere Funktionen für eine Serie zumachen.
 

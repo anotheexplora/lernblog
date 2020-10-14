@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Vorname Nachname"
+name = "Ano"
 image = ""
-email = ""
+email = "anoja.vignarajah@bwdbern.ch"
 +++

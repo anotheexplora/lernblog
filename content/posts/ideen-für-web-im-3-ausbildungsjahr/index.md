@@ -1,5 +1,5 @@
 +++
-title = "Ideen für Web im 3. Ausbildungsjahr"
+title = "𝐈𝐝𝐞𝐞𝐧 𝐟ü𝐫 𝐖𝐞𝐛 𝐢𝐦 𝟑. 𝐀𝐮𝐬𝐛𝐢𝐥𝐝𝐮𝐧𝐠𝐬𝐣𝐚𝐡𝐫"
 date = "2020-08-12"
 draft = false
 pinned = false

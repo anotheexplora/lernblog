@@ -1,13 +1,11 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](photo-1601758174493-45d0a4d3e407.jpg)
 
-## Vorname Nachname
+# 𝐀𝐧𝐨
 
-info@lernblog.ch
-
-Beschreibung, wer ich bin...
+Schülerin der Wirtschaftsmittelschule Bern | bwd

@@ -3,7 +3,7 @@ title = "𝐖𝐚𝐬 𝐤𝐚𝐧𝐧 𝐦𝐚𝐧 𝐚𝐮𝐬 𝐝𝐢𝐞�
 date = "2020-09-02"
 draft = false
 pinned = false
-image = "test-site-shows.png"
+image = "photo-1586899028174-e7098604235b.jpg"
 +++
 Letzte Woche haben wir uns auf die Suche nach Problemen und Bedürfnissen anderer Menschen gemacht., welche wir in ein Produkt also in ein Projekt einarbeiten können. Dabei haben wir die vielfältige Auswahl an Serien und deren Zugänglichkeit als Problem für die Jugendlichen erkannt. Denn oft wissen diese nicht was und wo sie etwas schauen können. Zudem ist uns aufgefallen, dass es nicht viele gesunde Optionen, zu Fast-Food Chains wie McDonalds, gibt.
 

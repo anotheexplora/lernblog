@@ -1,5 +1,5 @@
 +++
-title = "Was kann man aus diesen Problemen oder Bedürfnissen machen?"
+title = "𝐖𝐚𝐬 𝐤𝐚𝐧𝐧 𝐦𝐚𝐧 𝐚𝐮𝐬 𝐝𝐢𝐞𝐬𝐞𝐧 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐞𝐧 𝐨𝐝𝐞𝐫 𝐁𝐞𝐝ü𝐫𝐟𝐧𝐢𝐬𝐬𝐞𝐧 𝐦𝐚𝐜𝐡𝐞𝐧?"
 date = "2020-09-02"
 draft = false
 pinned = false

@@ -1,5 +1,5 @@
 +++
-title = "Über mich"
+title = "𝐀𝐛𝐨𝐮𝐭 𝐦𝐞"
 draft = false
 image = ""
 description = "Seite über mich"

@@ -1,5 +1,5 @@
 +++
-title = "The next few steps..."
+title = "𝐓𝐡𝐞 𝐧𝐞𝐱𝐭 𝐟𝐞𝐰 𝐬𝐭𝐞𝐩𝐬..."
 date = "2020-09-09"
 draft = false
 pinned = false

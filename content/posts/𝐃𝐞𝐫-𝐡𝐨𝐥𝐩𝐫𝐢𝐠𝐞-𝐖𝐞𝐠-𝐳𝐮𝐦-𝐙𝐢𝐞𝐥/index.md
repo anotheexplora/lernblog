@@ -9,8 +9,4 @@ Die Arbeit fand heute ohne Aufsichtsperson statt, wir konnten trotzdem an unsere
 
 \*Bild\*
 
-Dazu haben wir uns noch auf das Programmieren der Website fokussiert. Wir haben weitere grundlegende Elemente einer Website kennengelernt. Diese Elemente haben wir mit dem Tool und der Anleitung (auf <!--StartFragment-->
-
-[https://code.makery.ch/de/library/html-css/](https://code.makery.ch/de/library/html-css/ "https\://code.makery.ch/de/library/html-css/")
-
-<!--EndFragment--> ) ausprobiert.
+Dazu haben wir uns noch auf das Programmieren der Website fokussiert. Wir haben weitere grundlegende Elemente einer Website kennengelernt. Diese Elemente haben wir mit dem Tool und der Anleitung (auf <!--StartFragment-->[https://code.makery.ch/de/library/html-css/](https://code.makery.ch/de/library/html-css/ "https\://code.makery.ch/de/library/html-css/")<!--EndFragment--> ) ausprobiert. Beim Programmieren sind wir soweit gekommen, dass wir bald zur "Veröffentlichung" der Übungswebsite kommen.

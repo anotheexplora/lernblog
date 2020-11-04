@@ -9,8 +9,18 @@ Damit wir die grundlegenden Züge des Programmierens einer Webseite erkennen und
 
 ![](unbenannt.jpg)
 
-Dabei haben uns während dem Unterricht auch einige politische Themen beschäftigt. Denn während wir hier das Programmieren lernen, werden die Wahlzettel in den USA rasant gezählt. Die beiden Kandidaten stehen sich in einem knappen Rennen gegenüber. Einer der Kandidaten möchte schon kurz nach Ende des Wahltages die Zählung stoppen, der andere Kandidat möchte den verschiedenen Staaten die Zeit erlauben welche benötigt wird. Beide haben ihre eigenen Gründe, wer wird jedoch schlussendlich gewinnen? Für wen hat das amerikanische Volk gestimmt und werden die Wahlen die Völkerstimmen reflektieren? Das sind zentrale Fragen, da das amerikanische System nicht immer so ausgebaut ist, dass die Mehrheit reflektiert wird. Dies konnte man auch während den Wahlen in 2020 sehen , denn Trump hat durch das amerikanische Wahlsystem gewonnen. Hillary Clinton hatte damals jedoch höhere Zahlen erreicht. Persönlich habe ich das Gefühl, dass auch dieses Jahr Trump wieder gewinnen wird. Jedoch fallen die Zahlen sehr nah aus, deshalb wird es trotzdem spannend zu sehen wie die Wahlen dieses Jahr ausfallen und welche Folgen dies mit sich ziehen würde.
+Dazu haben wir heute die weiteren Schritte und das eigentliche Ziel unseres Projektes festgelegt. In den nächsten Wochen werden wir weiter an unserem Projekt arbeiten sowie 
+
+
+
+### US elections
+
+![](fddsaferwa.jpg "Momentaufnahme elections")
+
+Dabei haben uns während dem Unterricht auch einige politische Themen beschäftigt. Denn während wir hier das Programmieren lernen, werden die Wahlzettel in den USA rasant gezählt. Die beiden Kandidaten stehen sich in einem knappen Rennen gegenüber. Einer der Kandidaten möchte schon kurz nach Ende des Wahltages die Zählung stoppen, der andere Kandidat möchte den verschiedenen Staaten die Zeit erlauben welche benötigt wird. Beide haben ihre eigenen Gründe, wer wird jedoch schlussendlich gewinnen? Für wen hat das amerikanische Volk gestimmt und werden die Wahlen die Völkerstimmen reflektieren? 
+
+Das sind zentrale Fragen, da das amerikanische System nicht immer so ausgebaut ist, dass die Mehrheit reflektiert wird. Dies konnte man auch während den Wahlen in 2020 sehen , denn Trump hat durch das amerikanische Wahlsystem gewonnen. Hillary Clinton hatte damals jedoch höhere Zahlen erreicht. Persönlich habe ich das Gefühl, dass auch dieses Jahr Trump wieder gewinnen wird. Jedoch fallen die Zahlen sehr nah aus, deshalb wird es trotzdem spannend zu sehen wie die Wahlen dieses Jahr ausfallen und welche Folgen dies mit sich ziehen würde.
 
 ![](photo-1602432596754-630e919e67a7.jpg)
 
-Auch der Bundesrat hat heute eine Medienkonferenz zu möglichen neuen Massnahmen auf Grund von Corona abgehalten.
+Auch der Bundesrat hat heute eine Medienkonferenz zu möglichen neuen Massnahmen auf Grund von Corona abgehalten.  Was aus den "neuen Massnahmen" zu schliessen ist, bleibt jedem selbst überlassen.

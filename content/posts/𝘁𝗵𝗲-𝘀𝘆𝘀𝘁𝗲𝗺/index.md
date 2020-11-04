@@ -3,7 +3,7 @@ title = "𝐓𝐡𝐞 𝘀𝘆𝘀𝘁𝗲𝗺..."
 date = "2020-11-04"
 draft = false
 pinned = false
-image = "photo-1602432596754-630e919e67a7.jpg"
+image = "photo-1602906530215-1bf5f4925279.jpg"
 +++
 Damit wir die grundlegenden Züge des Programmierens einer Webseite erkennen und verstehen können, haben wir dafür 2 Lektionen aufgewendet. Wir haben weiter an unserer Übungswebsite gearbeitet, so haben wir heute nicht nur html zum Programmieren genutzt, sondern auch css. Dies ist ein Teil des Programmierens, welcher wir heute neu dazu gelernt haben. CSS fokussiert sich vor allem auf das Design der Webseite, d.h. auf das Design der einzelnen Elemente.
 

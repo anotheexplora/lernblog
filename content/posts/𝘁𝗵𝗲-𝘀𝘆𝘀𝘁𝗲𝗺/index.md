@@ -9,7 +9,7 @@ Damit wir die grundlegenden Züge des Programmierens einer Webseite erkennen und
 
 ![](unbenannt.jpg)
 
-Dabei haben uns während dem Unterricht auch einige politische Themen beschäftigt. Denn während wir hier das Programmieren lernen, werden die Wahlzettel in den USA rasant gezählt. Die beiden Kandidaten stehen sich in einem knappen Rennen gegenüber. Einer der Kandidaten möchte schon kurz nach Ende des Wahltages die Zählung stoppen, der andere Kandidat möchte den verschiedenen Staaten die Zeit erlauben welche benötigt wird. 
+Dabei haben uns während dem Unterricht auch einige politische Themen beschäftigt. Denn während wir hier das Programmieren lernen, werden die Wahlzettel in den USA rasant gezählt. Die beiden Kandidaten stehen sich in einem knappen Rennen gegenüber. Einer der Kandidaten möchte schon kurz nach Ende des Wahltages die Zählung stoppen, der andere Kandidat möchte den verschiedenen Staaten die Zeit erlauben welche benötigt wird. Beide haben ihre eigenen Gründe, wer wird jedoch schlussendlich gewinnen? Für wen hat das amerikanische Volk gestimmt und werden die Wahlen die Völkerstimmen reflektieren? Das sind zentrale Fragen, da das amerikanische System nicht immer so ausgebaut ist, dass die Mehrheit reflektiert wird. Dies konnte man auch während den Wahlen in 2020 sehen 
 
 ![](photo-1602432596754-630e919e67a7.jpg)
 

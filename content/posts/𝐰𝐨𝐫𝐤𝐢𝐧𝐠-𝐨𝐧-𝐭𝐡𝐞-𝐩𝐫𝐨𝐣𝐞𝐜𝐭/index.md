@@ -15,6 +15,6 @@ Wir haben uns Möglichkeiten für das persönliche "Serien-Quiz" überlegt, dabe
 
 **Stand Projekt**
 
-Um die Website aufzustellen haben wir ein bootstrap heruntergeladen, um die Arbeit des Programmierens (schreiben des htmls) etwas zu erleichtern und kürzen. Dort haben wir gewisse Dinge, wie die Menüleiste und deren Seiten versucht aufzuarbeiten. Wir sind damit noch nicht extrem weit gekommen, jedoch haben wir geplant daran auch übernächste Woche weiterzuarbeiten.
+Um die Website aufzustellen haben wir ein bootstrap heruntergeladen, um die Arbeit des Programmierens (schreiben des htmls) etwas zu erleichtern und kürzen. Dort haben wir gewisse Dinge, wie die Menüleiste und deren Seiten versucht aufzuarbeiten. Wir sind damit noch nicht extrem weit gekommen, jedoch haben wir geplant daran auch übernächste Woche weiterzuarbeiten. Da das html recht lange also auch ausführlich aufgebaut ist, kann unsere Arbeit bis zur fertigen Webseite noch etwas dauern. Jedoch sind wir weiterhin motiviert an diesem Projekt weiterzuarbeiten.
 
 ![Genre "Horror"](unbenannt.png)

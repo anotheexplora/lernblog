@@ -7,8 +7,14 @@ image = "photo-1572177812156-58036aae439c.jpg"
 +++
 Heute haben wir an unserer ursprünglichen Idee für das Projekt weitergearbeitet. Wir haben unteranderem unsere Planung aktualisiert und uns das Design der Website überlegt. 
 
-WIr haben uns Möglichkeiten für das persönliche "Serien-Quiz" überlegt, dabei kam durch die Lehrperson die Idee von persönlichen Empfehlungen auf. Bei diesem würden Website-Besucher die Anliegen und/oder Wünsche in einem Formular auf der Webseite festhalten und dafür persönliche Empfehlungen für Serien erhalten.
+**Neue Ideen**
+
+Wir haben uns Möglichkeiten für das persönliche "Serien-Quiz" überlegt, dabei kam durch die Lehrperson die Idee von persönlichen Empfehlungen auf. Bei diesem würden Website-Besucher die Anliegen und/oder Wünsche in einem Formular auf der Webseite festhalten und dafür persönliche Empfehlungen für Serien erhalten. Diese Idee würde aber nur standhalten wenn nicht viele Anfragen eingehen, da dies sehr aufwändig ist.
+
+![Contact us](contact-us-callmemaybe.png)
+
+**Stand Projekt**
 
 Um die Website aufzustellen haben wir ein bootstrap heruntergeladen, um die Arbeit des Programmierens (schreiben des htmls) etwas zu erleichtern und kürzen. Dort haben wir gewisse Dinge, wie die Menüleiste und deren Seiten versucht aufzuarbeiten. Wir sind damit noch nicht extrem weit gekommen, jedoch haben wir geplant daran auch übernächste Woche weiterzuarbeiten.
 
-![](unbenannt.png)
+![Genre "Horror"](unbenannt.png)

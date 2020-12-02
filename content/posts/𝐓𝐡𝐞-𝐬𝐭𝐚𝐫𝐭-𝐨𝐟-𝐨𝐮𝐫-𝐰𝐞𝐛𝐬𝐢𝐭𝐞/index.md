@@ -19,4 +19,4 @@ Lucas hat heute im Home-Office gearbeitet, weshalb die Zusammenarbeit etwas schw
 
 ## Wie geht es weiter?
 
-Auch nächste Woche werden wir wieder an der Webseite für unser Projekt weiterarbeiten, hoffentlich dieses mal wieder zu zweit. In der nächsten Arbeitsphase möchten wir die Startseite fertig programmieren und mit dem Programmieren der Unterkategorien beginnen. So dass das Grundgerüst der Webseite schon einmal vorhanden ist und wir auf diesem aufbauen können.
+Auch nächste Woche werden wir wieder an der Webseite für unser Projekt weiterarbeiten, hoffentlich dieses mal wieder zu zweit. In der nächsten Arbeitsphase möchten wir die Startseite fertig programmieren und mit dem Programmieren der Unterkategorien beginnen. So dass das Grundgerüst der Webseite schon einmal vorhanden ist und wir auf diesem aufbauen können. Dabei müssen wir uns auch noch für einen Namen entscheiden.

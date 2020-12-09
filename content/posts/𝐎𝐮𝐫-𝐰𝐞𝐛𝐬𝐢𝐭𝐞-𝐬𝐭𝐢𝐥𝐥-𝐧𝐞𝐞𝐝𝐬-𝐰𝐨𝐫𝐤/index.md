@@ -3,7 +3,7 @@ title = "𝐎𝐮𝐫 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐬𝐭𝐢𝐥𝐥 𝐧𝐞
 date = "2020-12-09"
 draft = false
 pinned = false
-image = "dsafuj.png"
+image = "sdfgedsahjn.png"
 +++
 Glücklicherweise konnten wir heute beide wieder zusammen, vor Ort arbeiten. Wir haben heute als erstes die Planung aktualisiert und die vorausgesehenen Tätigkeiten für den heutigen Nachmittag festgelegt. Darunter befand sich unteranderem, das Finden eines Namens sowie das Designen des Logos.
 
